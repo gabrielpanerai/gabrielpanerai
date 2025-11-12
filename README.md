@@ -6,6 +6,7 @@ I'm a Computer Science student at **UFRGS** (started in 2025/1), focused on back
 * ☕ **Java Ecosystem:** Spring Boot, Streams, Concurrency & APIs.
 * 💻 **Low Level:** C language and memory management.
 * 🗄️ **Data:** Modeling with MySQL.
+*  🐳 **DevOps:** Containerization with Docker.
 
 🛠️ **My Tools:**
 

@@ -19,5 +19,5 @@ I'm a Computer Science student at **UFRGS** (started in 2025/1), focused on back
 
 Feel free to reach out or connect with me! I'm always open to new opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielpanerai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielpanerai)
 [![Gmail](https://img.shields.io/badge/gabrielpanerai@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielpanerai@gmail.com)
